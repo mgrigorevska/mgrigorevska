@@ -9,7 +9,7 @@
 
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
-<a href="https://kaggle.com/maria grigorevska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mariagrigorevska" height="30" width="40" /></a>
+<a href="https://kaggle.com/mariagrigorevska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mariagrigorevska" height="30" width="40" /></a>
 <a href="https://instagram.com/jepkka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jepkka" height="30" width="40" /></a>
 </p>
 
