@@ -1,14 +1,16 @@
-### Hi there 👋
-<h1 align="center">Привет!👋, я Мария</h1>
-<h3 align="center">Прошла обучение на платформе Яндекс Практикум по специальности Специалист по Data Science - нравится поиск неочевидных связей и закономерностей, область привлекает возможностью решения интересных задач и роста в данной сфере</h3>
+<h1 align="center">Привет! Я Мария 👋</h1>
+<h3 align="center">Прошла обучение на платформе Яндекс Практикум по специальности Специалист по Data Science - нравится поиск неочевидных связей и закономерностей, область привлекает возможностью решения интересных задач и роста в данной сфере :)</h3>
 
-- 📫 How to reach me **mgliezz@yandex.ru**
+- 💬 Телеграм: **https://t.me/mgliezz**
 
-- 📄 Know about my experiences [https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e](https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e)
+- 📫 Почта: **mgliezz@yandex.ru**
+
+- 📄 Резюме: [https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e](https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://kaggle.com/maria grigorevska" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="maria grigorevska" height="30" width="40" /></a>
+<a href="https://instagram.com/jepkka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jepkka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
