@@ -5,7 +5,7 @@
 
 - 📫 Почта: **mgliezz@yandex.ru**
 
-- 📄 Резюме: [https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e](https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e)
+- 📄 Резюме: [https:hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e](https://ekaterinburg.hh.ru/resume/e411015aff0b8927120039ed1f4766346d314e)
 
 <h3 align="left">Социальные сети:</h3>
 <p align="left">
